@@ -1,0 +1,19 @@
+{
+    "name": "merummer/sue1_25_04",
+    "description": "A library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Merummer\\Sue12504\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Melissa Maria Rummer",
+            "email": "mrummer@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
